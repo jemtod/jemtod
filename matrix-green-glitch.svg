@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="g" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#00ff9a" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#00ff9a" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2.4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .bg { fill:#050b0a }
+      .rain { font:14px ui-monospace, Consolas, monospace; fill:url(#g); filter:url(#glow) }
+      .title { font:36px ui-monospace, Consolas, monospace; fill:#b9ffea; filter:url(#glow) }
+      .sub { font:14px ui-monospace, Consolas, monospace; fill:#5dffd0 }
+      .scan { fill:#00ff9a; opacity:.05 }
+      .glitch { animation: glitch 1.6s infinite }
+      @keyframes glitch {
+        0% { transform:translate(0) }
+        20% { transform:translate(-1px,1px) }
+        40% { transform:translate(1px,-1px) }
+        60% { transform:translate(-1px,0) }
+        80% { transform:translate(1px,1px) }
+        100% { transform:translate(0) }
+      }
+    </style>
+  </defs>
+  <rect class="bg" width="1200" height="260"/>
+  <rect class="scan" width="1200" height="10">
+    <animate attributeName="y" from="-10" to="260" dur="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <g class="rain">
+    <text x="60" y="-40">0101 0011 1100 0101 0010 1111 0001
+      <animate attributeName="y" from="-40" to="320" dur="3s" repeatCount="indefinite"/>
+    </text>
+  </g>
+  <g class="glitch">
+    <text class="title" x="60" y="130">GREEN TEAM // JEMTOD</text>
+    <text class="sub" x="60" y="160">bandung • defend • automate • harden</text>
+  </g>
+</svg>
