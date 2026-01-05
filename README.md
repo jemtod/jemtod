@@ -1,12 +1,19 @@
 <div align="center">
 
-<img src="https://share.google/images/f498HjAXa6JcasOl9" alt="Profile Picture" width="200" style="border-radius: 50%;"/>
+<a href="https://github.com/jemtod" target="_blank">
+  <img src="https://raw.githubusercontent.com/jemtod/jemtod/main/profile.png"
+       alt="Jemtod Profile"
+       width="200"
+       style="border-radius:50%; border:2px solid #00ff9a;"/>
+</a>
 
-<br>
+<br><br>
 
-<img src="https://share.google/images/f498HjAXa6JcasOl9" alt="Profile Badge"/>
+<img src="https://img.shields.io/github/followers/jemtod?style=flat&color=00ff9a" />
+<img src="https://img.shields.io/badge/Role-Green%20Team-00ff9a?style=flat" />
 
 </div>
+
 
 ---
 
