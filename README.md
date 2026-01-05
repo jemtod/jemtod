@@ -6,10 +6,11 @@
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/jemtod?style=flat&color=00ff9a" />
-<img src="https://img.shields.io/badge/Role-Green%20Team-00ff9a?style=flat" />
+<img src="https://img.shields.io/badge/Role-Cyber%20Security-00ff9a?style=flat" />
+<img src="https://img.shields.io/badge/Focus-Defense-00ff9a?style=flat" />
 
 </div>
+
 
 
 
