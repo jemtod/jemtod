@@ -1,10 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/jemtod" target="_blank">
-  <img src="https://raw.githubusercontent.com/jemtod/jemtod/main/profile.png"
-       alt="Jemtod Profile"
-       width="200"
-       style="border-radius:50%; border:2px solid #00ff9a;"/>
+<a href="https://github.com/jemtod">
+  <img src="https://raw.githubusercontent.com/jemtod/jemtod/main/profile.png" width="200" />
 </a>
 
 <br><br>
@@ -13,6 +10,7 @@
 <img src="https://img.shields.io/badge/Role-Green%20Team-00ff9a?style=flat" />
 
 </div>
+
 
 
 ---
