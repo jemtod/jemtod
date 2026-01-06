@@ -20,10 +20,9 @@
 
 ## ABOUT ME :
 
-👋 Hello I'm Jama
-📍 I'm Live on Bandung
-💻 My Hobbies is Coding, Gaming & Sleeping
-
+👋 Name    : Jama
+📍 Base    : Bandung, Indonesia
+💻 Focus   : Defense • Automation • Hardening
 </div>
 
 ---
