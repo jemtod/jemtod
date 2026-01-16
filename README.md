@@ -22,7 +22,7 @@
 
 👋 Name    : Jama
 📍 Base    : Bandung, Indonesia
-💻 Focus   : Defense • Automation • Hardening
+💻 Focus   : Eat • Sleep • Repeat
 </div>
 
 ---
